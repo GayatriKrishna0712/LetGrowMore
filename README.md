@@ -1,2 +1,2 @@
-# LetGrowMore
+# LetsGrowMore
 Remote Internship
